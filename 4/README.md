@@ -53,11 +53,7 @@ x=[x_1,x_2,\ldots,x_n],\quad y=[x_n,x_{n-1},\ldots,x_1,\mathrm{EOS}]
 - PyTorch
 - Pillow
 
-若使用当前 Codex 运行时，可通过以下 Python 解释器运行：
 
-```powershell
-C:\Users\Lu\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe
-```
 
 ## 运行方式
 
@@ -93,7 +89,7 @@ cd D:\PRML\4\代码
 
 ## 输出文件说明
 
-每次运行都会在指定输出目录中生成以下文件：
+
 
 - `config.json`：实验配置，包括序列长度、模型维度、层数、学习率等
 - `history.csv`：训练过程记录，包括训练损失、评估损失、token accuracy 和 sequence accuracy

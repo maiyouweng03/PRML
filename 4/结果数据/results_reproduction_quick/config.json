@@ -1,0 +1,16 @@
+{
+  "seed": 7,
+  "vocab_size": 32,
+  "seq_len": 8,
+  "d_model": 64,
+  "heads": 4,
+  "d_ff": 128,
+  "layers": 3,
+  "dropout": 0.1,
+  "batch_size": 64,
+  "steps": 160,
+  "eval_batches": 10,
+  "lr": 0.001,
+  "log_every": 50,
+  "device": "cpu"
+}

@@ -1,0 +1,9 @@
+{
+  "transformer": {
+    "loss": 1.6919598579406738,
+    "token_accuracy": 0.41805555555555557,
+    "sequence_accuracy": 0.0,
+    "seconds": 12.943593263626099,
+    "parameters": 257312
+  }
+}

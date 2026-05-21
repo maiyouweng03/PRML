@@ -1,0 +1,16 @@
+{
+  "transformer": {
+    "loss": 0.3020124889910221,
+    "token_accuracy": 0.8919270833333334,
+    "sequence_accuracy": 0.4625,
+    "seconds": 14.286187410354614,
+    "parameters": 257312
+  },
+  "no_residual": {
+    "loss": 2.628018593788147,
+    "token_accuracy": 0.175,
+    "sequence_accuracy": 0.0,
+    "seconds": 13.521823167800903,
+    "parameters": 257312
+  }
+}
